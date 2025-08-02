@@ -9,3 +9,4 @@ D:\Programación\C#\Proyectos\SistemaInventario\SistemaInventario.Utilidades\obj
 D:\Programación\C#\Proyectos\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net8.0\refint\SistemaInventario.Utilidades.dll
 D:\Programación\C#\Proyectos\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net8.0\SistemaInventario.Utilidades.pdb
 D:\Programación\C#\Proyectos\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net8.0\ref\SistemaInventario.Utilidades.dll
+D:\Programación\C#\Proyectos\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net8.0\SistemaInventario.Utilidades.sourcelink.json

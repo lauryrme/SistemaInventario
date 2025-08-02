@@ -25,4 +25,9 @@
       <ProjectReference Include="..\SistemaInventario.Utilidades\SistemaInventario.Utilidades.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Areas\Inventario\Controllers\" />
+      <Folder Include="Areas\Inventario\Views\" />
+    </ItemGroup>
+
 </Project>

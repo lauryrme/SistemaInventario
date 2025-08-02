@@ -17,3 +17,4 @@ D:\Programación\C#\Proyectos\SistemaInventario\SistemaInventario.AccesoDatos\bi
 D:\Programación\C#\Proyectos\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net8.0\SistemaInventario.Modelos.pdb
 D:\Programación\C#\Proyectos\SistemaInventario\SistemaInventario.AccesoDatos\bin\Debug\net8.0\SistemaInventario.Utilidades.pdb
 D:\Programación\C#\Proyectos\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net8.0\SistemaI.AC5EC1CF.Up2Date
+D:\Programación\C#\Proyectos\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net8.0\SistemaInventario.AccesoDatos.sourcelink.json
