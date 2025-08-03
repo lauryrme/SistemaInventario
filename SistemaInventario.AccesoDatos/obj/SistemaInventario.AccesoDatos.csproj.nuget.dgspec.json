@@ -13,7 +13,6 @@
         "packagesPath": "C:\\Users\\Laury\\.nuget\\packages\\",
         "outputPath": "D:\\Programación\\C#\\Proyectos\\SistemaInventario\\SistemaInventario.AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "C:\\Users\\Laury\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
@@ -105,7 +104,6 @@
         "packagesPath": "C:\\Users\\Laury\\.nuget\\packages\\",
         "outputPath": "D:\\Programación\\C#\\Proyectos\\SistemaInventario\\SistemaInventario.Modelos\\obj\\",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "C:\\Users\\Laury\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
@@ -164,7 +162,6 @@
         "packagesPath": "C:\\Users\\Laury\\.nuget\\packages\\",
         "outputPath": "D:\\Programación\\C#\\Proyectos\\SistemaInventario\\SistemaInventario.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "C:\\Users\\Laury\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
